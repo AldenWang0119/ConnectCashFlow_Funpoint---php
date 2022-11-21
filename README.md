@@ -1,10 +1,10 @@
 # ConnectCashFlow_Funpoint---php
 ## 以php串接funpoint金流、包含兩專案
 
-### FunPointCreditCard_php
+### 一、FunPointCreditCard_php
 包含一般訂單、信用卡訂單CRUD
 
-### FunPointCreditCard_php
+### 二、FunPointCreditCard_php
 單獨拉出建立訂單功能
 
 參考
